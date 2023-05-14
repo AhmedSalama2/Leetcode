@@ -17,5 +17,4 @@ int removeDuplicates(int* nums, int numsSize){
         nums[i]=nums[k];
     }
     return ans;
-
 }
