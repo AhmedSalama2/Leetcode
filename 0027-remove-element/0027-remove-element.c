@@ -1,6 +1,5 @@
 int removeElement(int* nums, int numsSize, int val){
     int i;
-    int k=numsSize;
     int temp;
     for(i=0;i<numsSize;++i){
         if(numsSize==1){
